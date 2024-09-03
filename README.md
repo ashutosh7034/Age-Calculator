@@ -1,6 +1,6 @@
 
-Project Description: Age Calculator Web Application
-The Age Calculator Web Application is a responsive and user-friendly tool designed to calculate the exact age of a user based on their date of birth. Built using HTML, CSS, and JavaScript, this application provides a seamless experience across various devices, from desktops to smartphones.
+Project Description: Age Calculator Web Application<br>
+The Age Calculator Web Application is a responsive and user-friendly tool designed to calculate the exact age of a user based on their date of birth. Built using HTML, CSS, and JavaScript, this application provides a seamless experience across various devices, from desktops to smartphones.<br>
 
 Key Features:
 Responsive Design: The application is designed to be fully responsive, ensuring a consistent user experience across different screen sizes, including desktops, tablets, and mobile devices.
